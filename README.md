@@ -1,1 +1,1 @@
-# DS_Predict_NN_LR
+# Prediction_with_NeuralNetwrok_and_LinearRegression
